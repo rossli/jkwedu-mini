@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "s-login": "/components/s-login/index",
+      "wux-icon": "/components/icon/index",
+      "wux-button": "/components/button/index",
+      "wux-tabbar": "/components/tab-bar/index"
+  }
+}

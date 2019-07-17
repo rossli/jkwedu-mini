@@ -1,0 +1,5 @@
+<!--src/components/s-login/index.wxml-->
+<view class="container">
+	<image mode="aspectFit" src="%ASSETS_IMG%/logo.png"></image>
+	<view class='title'>Soul Weapp22222ss</view>
+</view>
